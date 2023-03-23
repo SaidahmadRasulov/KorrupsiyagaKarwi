@@ -21,7 +21,7 @@ function CContact() {
                 });
         formRef.current.reset();
         } else {
-            errorRef.current.innerHTML = "Hamma ma'lumotlarni kiriting !"
+            errorRef.current.innerHTML = "Hamma ma'lumotlarni kiriting!"
         }
     }
 
